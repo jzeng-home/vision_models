@@ -1,7 +1,0 @@
-names:
-- head
-- helmet
-- person
-nc: 3
-train: train/images
-val: valid/images
