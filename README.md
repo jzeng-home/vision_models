@@ -1,6 +1,6 @@
 # Vision Models
 
-A computer vision project using PyTorch.
+A computer vision project using PyTorch. Sagemaker train, deploy endpoint, edge infer. 
 
 ## 🚀 Features
 
